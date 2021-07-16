@@ -1,2 +1,3 @@
-meu primeiro contato com o git
-oi
+MEU PRIMEIRO CONTATO COM GIT
+Na escolda de tecnologia vida nova
+e eu quero aprender muito.
